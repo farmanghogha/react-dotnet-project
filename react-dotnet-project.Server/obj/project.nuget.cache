@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PPW4pMA6cf0=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\react-dotnet-project\\react-dotnet-project.Server\\react-dotnet-project.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MagnusMinds\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.6\\microsoft.aspnetcore.spaproxy.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
